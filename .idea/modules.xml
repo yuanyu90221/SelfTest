@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AudienceNetwork/AudienceNetwork.iml" filepath="$PROJECT_DIR$/AudienceNetwork/AudienceNetwork.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SelfTest.iml" filepath="$PROJECT_DIR$/SelfTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/facebook-android-sdk-4.7.0/facebook-android-sdk-4.7.0.iml" filepath="$PROJECT_DIR$/facebook-android-sdk-4.7.0/facebook-android-sdk-4.7.0.iml" />
+    </modules>
+  </component>
+</project>
